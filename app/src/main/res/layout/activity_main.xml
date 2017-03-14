@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="12dp"
+    android:paddingLeft="8dp"
+    android:paddingRight="8dp"
+    android:background="?attr/backgroundColor">
+    <Button
+        android:id="@+id/blue_theme_btn"
+        android:text="BLUE"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <Button
+        android:id="@+id/red_theme_btn"
+        android:text="RED"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+</LinearLayout>

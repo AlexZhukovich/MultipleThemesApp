@@ -1,0 +1,14 @@
+<resources>
+    <style name="AppTheme.Blue" parent="Theme.AppCompat">
+        <item name="colorPrimary">@color/primaryColor_blue</item>
+        <item name="colorPrimaryDark">@color/primaryColorDark_blue</item>
+        <item name="colorAccent">@color/primaryAccent_blue</item>
+        <item name="backgroundColor">@color/primaryColorDark_blue</item>
+    </style>
+    <style name="AppTheme.Red" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/primaryColor_red</item>
+        <item name="colorPrimaryDark">@color/primaryColorDark_red</item>
+        <item name="colorAccent">@color/primaryAccent_red</item>
+        <item name="backgroundColor">@color/primaryColorDark_red</item>
+    </style>
+</resources>
